@@ -1,6 +1,6 @@
 ![MasterHead](https://proguideah.com/wp-content/uploads/2023/10/How-to-become-an-AI-engineer.jpg)
 <h1 align="center">Hi 👋, I'm MAHAVEER TIRUMALASETTY</h1>
-<h3 align="center">Obssesed to AI   ,  from India </h3>
+<h3 align="center">Obssesed with AI tech stack  ,  from India </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/fotos-premium/programador-trabajando-computadoras-multiples-monitores_717906-1603.jpg?w=1060">
 
 - 💬 Ask me about **MACHINE LEARNING ,DEEP LEARNING , NLP**
